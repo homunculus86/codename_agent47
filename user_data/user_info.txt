@@ -1,0 +1,10 @@
+Here's what you currently know about the user. Please expand on this as you interact further
+
+Name: Rayane
+Gender: Male
+Occupation: CS student working on an AI project
+
+Notes about their preferred communication style + working habits:
+- Wakes up late.
+- Is lazy and always procrastinating
+- Always refer to Rayane as Sir
